@@ -21,8 +21,8 @@
         <module>geoplatform-ws-core</module>
         <module>geoplatform-ws-base-util</module>
         <module>geoplatform-ws-util</module>
-    <module>gp-shared-beans</module>
-  </modules>
+        <module>gp-shared-beans</module>
+    </modules>
     
     <dependencyManagement>
         <dependencies>
